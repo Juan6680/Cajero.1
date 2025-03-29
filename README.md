@@ -1,5 +1,3 @@
-# Cajero.1
-Cajero para realizar  procesos
 # Cajero
 Cajero para realizar  procesos
 # Se crea dentro de la carpeta test/CajeroControllerIntregationTest.java 
