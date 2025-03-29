@@ -17,5 +17,7 @@ Arroja un error en las dependecias SpringBoot.frametwork.starter
 #SpringBoot Web
 #SpringBoot Reactive
 #SpringBoot Thymleaf
+# se crea carpeta en src/github/workflow/text.yml
+S eejcuta el codigo pero arroja error en maven mvn.run
 
 
